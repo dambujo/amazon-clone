@@ -61,7 +61,7 @@ const data = {
       brand: 'Zara',
       rating: 4.5,
       numReviews: 10,
-      countInStock: 20,
+      countInStock: 0,
       description: 'A popular pants',
     },
     {
